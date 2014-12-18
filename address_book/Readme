@@ -1,0 +1,12 @@
+软件大小：40kb
+软件语言：Linux c
+软件类别：管理系统
+软件授权：FG
+更新时间：25/11/2014
+应用平台：Red Hat Enterprise Linux 5
+
+INSERT :自动按照姓(英文名)排序并进行插入
+DISPLAY :显示好友信息
+SEARCH :搜索好友信息
+DELETE :删除好友信息
+EXIT :退出程序
